@@ -1,1 +1,1 @@
-# javaUI
+# Tóm tắt về Java Swing, chuẩn bị làm đồ án Java OOP
